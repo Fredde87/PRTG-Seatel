@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <ValueLookup id="seatel.preferofferror" desiredValue="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PaeValueLookup.xsd">
+    <Lookups>
+      <SingleInt state="Error" value="1">
+        Error
+      </SingleInt>
+      <SingleInt state="Ok" value="0">
+        Off
+      </SingleInt>
+    </Lookups>
+  </ValueLookup>
